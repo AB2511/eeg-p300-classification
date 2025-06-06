@@ -1,4 +1,4 @@
-````markdown
+
 # EEG-Based Cognitive State Recognition Using P300
 
 ## Overview
